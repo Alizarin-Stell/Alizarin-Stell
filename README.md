@@ -6,15 +6,17 @@ Welcome to my GitHub profile! I'm passionate about data science and machine lear
 
 Here are the technologies and tools I work with:
 
-- **Data Analysis & Manipulation:** [Pandas](https://pandas.pydata.org/)
-- **Machine Learning Libraries:** [Scikit-Learn](https://scikit-learn.org/stable/), [CatBoost](https://catboost.ai/), [PyTorch](https://pytorch.org/)
-- **Visualization:** [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), [Plotly](https://plotly.com/)
-- **Natural Language Processing:** [Gensim](https://radimrehurek.com/gensim/)
+- **Data Analysis & Manipulation:** Pandas, Pyspark
+- **Machine Learning Libraries:** Scikit-Learn, CatBoost, PyTorch
+- **Visualization:** Matplotlib, Seaborn, Plotly
+- **Natural Language Processing:** Gensim, LLaMA, Bert
+- **Computer Vision** Tesseract, CV
+- **Crowdsourcing** Toloka, Яндекс.Задания
 
 ## 🌱 I’m currently learning ...
 
 - Advanced techniques in deep learning and neural networks using PyTorch.
-- Classique ML algorithms
+- Advanced CV algorithms
 - NLP models and their applications.
 - Scalable data analysis strategies to handle large datasets.
 
