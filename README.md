@@ -1,4 +1,4 @@
-# Hello, I'm Aleksei Akulov ☕
+# Hello, I'm Alexey Akulov ☕
 
 Welcome to my GitHub profile! I'm passionate about data science and machine learning, like programming and analytics. Here, you'll find my projects, experiments, and contributions that reflect my interests and skills in the field.
 
